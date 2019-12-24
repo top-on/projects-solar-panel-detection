@@ -5,7 +5,7 @@ List of project to detect solar panels from images (e.g. aerial or satellite)
 
 | Project | Task | Tool | License | Images |
 |---------|------|------|---------|--------|
-| [DeepSolar](https://github.com/ChenXi1992/DeepSolar)  | Image classification | Keras | none |  |
+| [DeepSolar](https://github.com/ChenXi1992/DeepSolar)  | Image classification | Keras | none | aerial|
 | [Solar-Panels-Detection](https://github.com/marcsv87/Solar-Panels-Detection) | Semantic segmentation | PyTorch | none | aerial |
 | [thermography](https://github.com/cdeldon/thermography) | Polygon proposals & segmentation | Tensorflow | none | photos |
 | [Automatic-Defect-Inspection-of-Solar-Farm](https://github.com/RonakDedhiya/Automatic-Defect-Inspection-of-Solar-Farm) | Object detection (defects) | Tensorflow Object Detection API | None | Thermal images |
